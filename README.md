@@ -2,4 +2,6 @@ HOME WORK GIT SEM 1 reeeeeeellleee
 
 No!!! Push!!!
 
-Lection 2. 
+Git Home Work 2 
+
+Commit 1
