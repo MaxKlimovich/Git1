@@ -1,3 +1,0 @@
-Editing 
-
-Reverting changes
